@@ -5,7 +5,7 @@
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
     <description>Fundamental cryptocurrency classes and structures.</description>
-    <tags>cryptocurrency money</tags>
+    <tags>cryptocurrency money bitcoin</tags>
     <iconUrl>https://raw.githubusercontent.com/skthomasjr/Cryptocurrency/master/Build/NuGet/Package.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Cryptocurrency/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/Cryptocurrency</projectUrl>
